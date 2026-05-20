@@ -11,14 +11,14 @@ const student1: Student = {
   firstName: "Alice",
   lastName: "In Chains",
   age: 78,
-  location: "New York",
+  location: "On Tour",
 };
  
 const student2: Student = {
   firstName: "Bobby",
   lastName: "Hill",
   age: 13,
-  location: "Los Angeles",
+  location: "King of The Hill Town",
 };
 
 // Storing made students in a list
